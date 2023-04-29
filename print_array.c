@@ -3,7 +3,7 @@
 /**
  * print_array - print
  * @array:  array
- * &size: size
+ * @size: size
 */
 void print_array(const int *array, size_t size)
 {
